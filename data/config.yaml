@@ -1,0 +1,13 @@
+dataset_path: "Video-Super-Resolution-Using-Transformers/data/train"
+val_dataset_path: "Video-Super-Resolution-Using-Transformers/data/val"
+test_dataset_path: "Video-Super-Resolution-Using-Transformers/data/test"
+sequence_length: 5
+scale: 3
+
+batch_size: 2
+epochs: 10
+save_every: 3
+
+feat_channels: 64
+num_blocks: 4
+lr: 0.0001
