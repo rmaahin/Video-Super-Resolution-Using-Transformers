@@ -1,6 +1,6 @@
-dataset_path: "Video-Super-Resolution-Using-Transformers/data/train"
-val_dataset_path: "Video-Super-Resolution-Using-Transformers/data/val"
-test_dataset_path: "Video-Super-Resolution-Using-Transformers/data/test"
+dataset_path: "data/train"
+val_dataset_path: "data/val"
+test_dataset_path: "data/test"
 sequence_length: 5
 scale: 3
 

@@ -1,0 +1,30 @@
+                                                                           
+[Epoch 1] Avg Train Loss: 0.0450
+[Epoch 1] Val Loss: 0.0439 | Val PSNR: 23.06 dB
+                                                                            
+[Epoch 2] Avg Train Loss: 0.0362
+[Epoch 2] Val Loss: 0.0408 | Val PSNR: 23.52 dB
+                                                                            
+[Epoch 3] Avg Train Loss: 0.0344
+[Epoch 3] Val Loss: 0.0404 | Val PSNR: 23.70 dB
+                                                                            
+[Epoch 4] Avg Train Loss: 0.0334
+[Epoch 4] Val Loss: 0.0383 | Val PSNR: 23.93 dB
+                                                                            
+[Epoch 5] Avg Train Loss: 0.0328
+[Epoch 5] Val Loss: 0.0374 | Val PSNR: 24.04 dB
+                                                                            
+[Epoch 6] Avg Train Loss: 0.0323
+[Epoch 6] Val Loss: 0.0371 | Val PSNR: 24.16 dB
+                                                                             
+[Epoch 7] Avg Train Loss: 0.0320
+[Epoch 7] Val Loss: 0.0368 | Val PSNR: 24.21 dB
+                                                                            
+[Epoch 8] Avg Train Loss: 0.0316
+[Epoch 8] Val Loss: 0.0369 | Val PSNR: 24.24 dB
+                                                                            
+[Epoch 9] Avg Train Loss: 0.0314
+[Epoch 9] Val Loss: 0.0363 | Val PSNR: 24.32 dB
+                                                                             
+[Epoch 10] Avg Train Loss: 0.0312
+[Epoch 10] Val Loss: 0.0359 | Val PSNR: 24.36 dB
